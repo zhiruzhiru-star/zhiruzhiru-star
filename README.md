@@ -27,4 +27,4 @@ production-minded data engineering: input contracts, validation, safe joins, tes
 
 ### 📫 Work with me
 Available for freelance data-engineering projects — pipelines, automation, data
-cleaning, and dashboards. [Add your Upwork/Contra/email link here.]
+cleaning, and dashboards. [zhiruzhiru@gmail.com]
